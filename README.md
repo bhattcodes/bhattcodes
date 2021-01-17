@@ -3,7 +3,7 @@
 ### Don't Forget To Drink milk 🥛
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=bhattcodes&theme=blue-green)](https://github.com/bhattcodes/github-readme-stats)
-
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatttcodes&theme=blue-green)
 
 <!--
 **bhattcodes/bhattcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

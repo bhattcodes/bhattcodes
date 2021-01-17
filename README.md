@@ -1,5 +1,6 @@
-### keep it simple 😈
-
+### keep it simple. 😈
+### Eat Code Sleep 🔁
+### Don't Forget To Drink milk 🥛
 <!--
 **bhattcodes/bhattcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

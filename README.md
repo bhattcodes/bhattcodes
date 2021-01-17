@@ -2,7 +2,7 @@
 ### Eat Code Sleep 🔁
 ### Don't Forget To Drink milk 🥛
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=bhattcodes&theme=blue-green)](https://github.com/bhattcodes/github-readme-stats)
+<!-- [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=bhattcodes&theme=blue-green)](https://github.com/bhattcodes/github-readme-stats) -->
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattcodes&theme=blue-green)
 
 <!--

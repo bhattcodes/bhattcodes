@@ -1,5 +1,5 @@
 ### keep it simple. 😈
-### Eat Code Sleep 🔁
+### High on JavaScript
 ### Don't Forget To Drink milk 🥛
 
 <!-- [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=bhattcodes&theme=blue-green)](https://github.com/bhattcodes/github-readme-stats) -->

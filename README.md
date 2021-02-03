@@ -1,4 +1,3 @@
-### keep it simple. 😈
 ### High on JavaScript
 ### Don't Forget To Drink milk 🥛
 

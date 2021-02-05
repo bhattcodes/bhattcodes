@@ -16,7 +16,7 @@
 <br/>
 <!-- [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=bhattcodes&theme=blue-green)](https://github.com/bhattcodes/github-readme-stats) -->
 <a href="https://github.com/bhattcodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattcodes&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattcodes&theme=light&hide_langs_below=1" />
 </a>
 <!--
 **bhattcodes/bhattcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

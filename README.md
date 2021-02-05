@@ -6,10 +6,11 @@
 </a>
 <a href="https://github.com/bhattcodes">
   <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
+</a>
 <a href="https://www.instagram.com/itz.bhatt/?hl=en">
   <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <!-- [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=bhattcodes&theme=blue-green)](https://github.com/bhattcodes/github-readme-stats) -->
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattcodes&theme=blue-green)
 

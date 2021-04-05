@@ -10,7 +10,7 @@
 🥛 &nbsp;Don't Forget to drink milk.\
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at ab1096@srmist.edu.in ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1E-cDhPqgB62zsthQLphloZGkFGNCYC2k/view) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1mFhjEX1LQ1396x43WmPDbSmOEPa5XdDg/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/bhattcodes/bhattcodes/master/assets/Night-Coding.gif" align="right"/>
 

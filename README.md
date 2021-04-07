@@ -46,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://bhattcodes.github.io/portfolio/"><img src="https://img.shields.io/badge/-Aman Bhatt-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://bhattcodes.github.io"><img src="https://img.shields.io/badge/-Aman Bhatt-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/bhattcodes"><img src="https://img.shields.io/badge/-Aman%20Bhatt-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ab1096@srmist.edu.in"><img src="https://img.shields.io/badge/-ab1096@srmist.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/itz.bhatt"><img src="https://img.shields.io/badge/-@itz.bhatt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

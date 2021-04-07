@@ -37,8 +37,10 @@
 
 <p align="center">
 <a href="https://github.com/bhattcodes">
-    <img height="180em" src="https://bhattcodes-readme.vercel.app/api?username=bhattcodes&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://bhattcodes-readme.vercel.app/api/top-langs/?username=bhattcodes&layout=compact&theme=algolia"/>
+    <img height="180em" src="https://bhattcodes-readme-stats.vercel.app
+.vercel.app/api?username=bhattcodes&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://bhattcodes-readme-stats.vercel.app
+.vercel.app/api/top-langs/?username=bhattcodes&layout=compact&theme=algolia"/>
 </a>
 </p>
 

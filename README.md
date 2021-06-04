@@ -5,12 +5,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at the SRMIST, Delhi NCR.\
+💡 &nbsp;Research Intern at University College London, London.\
+🎓 &nbsp;2nd year Undergrad at SRMIST, Delhi NCR.\
 🥛 &nbsp;Don't Forget to drink milk.\
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at ab1096@srmist.edu.in ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1mFhjEX1LQ1396x43WmPDbSmOEPa5XdDg/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/bhattcodes/bhattcodes/master/assets/Night-Coding.gif" align="right"/>
 

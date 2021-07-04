@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Research Intern at University College London, London.\
-🎓 &nbsp;2nd year Undergrad at SRMIST, Delhi NCR.\
+🎓 &nbsp;3nd year Undergrad at SRMIST, Delhi NCR.\
 🥛 &nbsp;Don't Forget to drink milk.\
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at ab1096@srmist.edu.in ! I'll try to respond as soon as I can.\

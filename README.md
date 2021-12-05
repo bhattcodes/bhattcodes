@@ -6,6 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Research Intern at University College London, London.\
+💻 &nbsp;President Microsoft Learn Student Ambassadors Club SRM NCR
 🎓 &nbsp;3rd year Undergrad at SRMIST, Delhi NCR.\
 🥛 &nbsp;Don't Forget to drink milk.\
 💬 &nbsp;Feel free to reach out to me.\
